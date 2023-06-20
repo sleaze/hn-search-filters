@@ -1,7 +1,11 @@
 # HackerNews Search Filters
 
-(Because there are too many interesting good ones to keep in my local memory buffer :)
+**(and Interesting User Profiles)**
 
-## Book Recommendations
+Because there are too many interesting good ones to keep in my local memory buffer :D
 
-https://hn.algolia.com/?dateRange=all&prefix=true&query=Read%20book&sort=byDate&type=comment
+## [User Profiles](/profiles)
+
+## Search Filters
+
+### [Book Recommendations](https://hn.algolia.com/?dateRange=all&prefix=true&query=Read%20book&sort=byDate&type=comment)
